@@ -6,8 +6,8 @@ Tasks i have completed:
 5. Troubleshooting and Bug-Fix -> 1h
 
 Tools and Installation:
-Web Server: Apache
-PHP version: 5.6
+* Web Server: Apache
+* PHP version: 5.6
 
 - the attached zip File (responsive_web_design.zip) should be extracted in Root folder (exp. htdocs)
 - this folder contains all necessary files for this application
